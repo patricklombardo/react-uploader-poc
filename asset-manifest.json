@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-uploader/static/css/main.3dc7faff.chunk.css",
+    "main.js": "/react-uploader/static/js/main.89217181.chunk.js",
+    "main.js.map": "/react-uploader/static/js/main.89217181.chunk.js.map",
+    "runtime-main.js": "/react-uploader/static/js/runtime-main.027963ff.js",
+    "runtime-main.js.map": "/react-uploader/static/js/runtime-main.027963ff.js.map",
+    "static/js/2.f2d82082.chunk.js": "/react-uploader/static/js/2.f2d82082.chunk.js",
+    "static/js/2.f2d82082.chunk.js.map": "/react-uploader/static/js/2.f2d82082.chunk.js.map",
+    "index.html": "/react-uploader/index.html",
+    "precache-manifest.d20d4021c23af505fe7f2b927b987720.js": "/react-uploader/precache-manifest.d20d4021c23af505fe7f2b927b987720.js",
+    "service-worker.js": "/react-uploader/service-worker.js",
+    "static/css/main.3dc7faff.chunk.css.map": "/react-uploader/static/css/main.3dc7faff.chunk.css.map",
+    "static/js/2.f2d82082.chunk.js.LICENSE.txt": "/react-uploader/static/js/2.f2d82082.chunk.js.LICENSE.txt",
+    "static/media/sf.jpg": "/react-uploader/static/media/sf.4fe9ce20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.027963ff.js",
+    "static/js/2.f2d82082.chunk.js",
+    "static/css/main.3dc7faff.chunk.css",
+    "static/js/main.89217181.chunk.js"
+  ]
+}
