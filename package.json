@@ -1,6 +1,6 @@
 {
   "name": "react-uploader",
-  "homepage": "http://patricklombardo.github.io/react-uploader-poc",
+  "homepage": "https://patricklombardo.github.io/react-uploader-poc/"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
